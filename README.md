@@ -6,7 +6,7 @@ This project still being built
 Feel free to use
 
 
-#INSTRUCTIONS
+# INSTRUCTIONS
 1- This project use some packages that you need to install in order to function correctly -> discord, youtube_dl and PyNaCl | tutorial: https://stackoverflow.com/questions/13270877/how-to-manually-install-a-pypi-module-without-pip-easy-install/13271241
 
 2- You will need to create your bot in the discord dashboard | tutorial: https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
